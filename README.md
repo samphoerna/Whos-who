@@ -14,9 +14,13 @@ Owner : Naman Sahore
 Editor: Me AKA Priman Satria
 
 **HOW TO USE:**
+
 *FOR RFI*
+
 Clear .txt extention and upload the script on a server and preform RFI.
+
 *FOR LFI*
+
 Clear .txt and add .php extention to the script and perform LFI by uploading shell script on a vulnerable server.
 
 ---
